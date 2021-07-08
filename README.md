@@ -6,25 +6,20 @@
 <h2>⚙️Технологии</h2>
 <div class="link__tex" style="display: flex;" >
     <img src="https://kerasfera.ru/upload/medialibrary/72c/72c3577c674131f5f4a18ae345ed206c.png">
-    <img src="https://kerasfera.ru/upload/medialibrary/c37/c378db6e8d45563780d17bbb1cafc861.png">
-    <img src="https://kerasfera.ru/upload/medialibrary/bb4/bb4316fc91deb6d8690fb7ec427b5499.png">
-    <img src="https://kerasfera.ru/upload/medialibrary/cec/cec0ec847ffcc0bfbc645b96fa84c194.png">
-    <img src="https://kerasfera.ru/upload/medialibrary/0ec/0ec5cf3c44487beed4c67ce4ab8d1634.png">
-    <img src="https://kerasfera.ru/upload/medialibrary/28b/28be4e81b697ecaec39b98dea472870e.png">
-    <img src="https://kerasfera.ru/upload/medialibrary/447/447e81e842c40db5ed1318cf70bf57b4.png">
-    <img src="">
+    <img src="https://kerasfera.ru/upload/medialibrary/f83/f83bd970511ed89e33c81c9a92825e22.png">
+    <img src="https://kerasfera.ru/upload/medialibrary/dbf/dbffd14c7f8d65c5cd7e27852a405712.png">
+    <img src="https://kerasfera.ru/upload/medialibrary/6ea/6ea23719fafb4c6229baa8c6b718834a.png">
+    <img src="https://kerasfera.ru/upload/medialibrary/4ca/4cae28556e26a1159878e4136114adb5.png">
+    <img src="https://kerasfera.ru/upload/medialibrary/3cd/3cda57ba7665bf350d440df615d6e7d5.png">
+    <img src="https://kerasfera.ru/upload/medialibrary/d0d/d0dcaec4b0160d101a50fbc050e6b22a.png">
 
 </div>
 
 <h2>⚒ Инструменты</h2>
 <div style="display: flex;" >
-    <img src="https://kerasfera.ru/upload/medialibrary/a46/a462d04a17c414971f657977b18c194a.png">
-    <img src="https://kerasfera.ru/upload/medialibrary/ea7/ea72ec46f78297631fa4a7025256b503.png">
-    <img src="https://kerasfera.ru/upload/medialibrary/135/135ac9ba1f1697a84d7f0ec10c06301f.png">
-    <img src="">
-    <img src="">
-    <img src="">
-    <img src="">
+    <img src="https://kerasfera.ru/upload/medialibrary/e1d/e1da238ead25d22c952653ca0d2222b0.png">
+    <img src="https://kerasfera.ru/upload/medialibrary/449/44936b339158146fb89672aab8fccadb.png">
+    <img src="https://kerasfera.ru/upload/medialibrary/a2c/a2c4d6565921ab9d39b1d8a589a5b290.png">
     <img src="">
     <img src="">
     <img src="">
