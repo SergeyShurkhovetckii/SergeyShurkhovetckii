@@ -19,10 +19,9 @@
 <div style="display: flex;" >
     <img src="https://kerasfera.ru/upload/medialibrary/449/44936b339158146fb89672aab8fccadb.png">
     <img src="https://kerasfera.ru/upload/medialibrary/a2c/a2c4d6565921ab9d39b1d8a589a5b290.png">
-    <img src="https://kerasfera.ru/upload/medialibrary/260/2607e99396e08f2007ab0deecd0556b2.png">
     <img src="https://kerasfera.ru/upload/medialibrary/ab6/ab615d07af2a19cf7b7a8c5c1853e14f.png">
-    <img src="">
-    <img src="">
+    <img src="https://kerasfera.ru/upload/medialibrary/260/2607e99396e08f2007ab0deecd0556b2.png">
+
 </div>
 
 
