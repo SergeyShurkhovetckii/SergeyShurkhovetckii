@@ -3,23 +3,31 @@
 
 
 <h2>⚙️Технологии</h2>
-<div style="display: flex;" ><img src="https://kerasfera.ru/upload/medialibrary/40a/40a2e3db58d7b5ac5863f764e78ce0da.png">
-    <img src="https://kerasfera.ru/upload/medialibrary/d9f/d9f4e78e8d858f732f4be07a896be36a.png">
-    <img src="https://kerasfera.ru/upload/medialibrary/a43/a431e9121c9bda6f9b6914937c6d9bb6.png">
+<div style="display: flex;" >
+    <img src="https://kerasfera.ru/upload/medialibrary/b70/b70caea498ed02a90d684159a2ab2c34.png">
+    <img src="https://kerasfera.ru/upload/medialibrary/c37/c378db6e8d45563780d17bbb1cafc861.png">
+    <img src="https://kerasfera.ru/upload/medialibrary/bb4/bb4316fc91deb6d8690fb7ec427b5499.png">
     <img src="https://kerasfera.ru/upload/medialibrary/cec/cec0ec847ffcc0bfbc645b96fa84c194.png">
-    <img src="">
-    <img src="">
+    <img src="https://kerasfera.ru/upload/medialibrary/0ec/0ec5cf3c44487beed4c67ce4ab8d1634.png">
+    <img src="https://kerasfera.ru/upload/medialibrary/28b/28be4e81b697ecaec39b98dea472870e.png">
     <img src="">
     <img src="">
 
 </div>
 
 <h2>⚒ Инструменты</h2>
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
+<div style="display: flex;" >
+    <img src="https://kerasfera.ru/upload/medialibrary/a46/a462d04a17c414971f657977b18c194a.png">
+    <img src="">
+    <img src="">
+    <img src="">
+    <img src="">
+    <img src="">
+    <img src="">
+    <img src="">
+    <img src="">
+    <img src="">
+</div>
 
 
 
