@@ -25,6 +25,10 @@
     <a href="malto:S19S93@yandex.ru">
         <img src="https://kerasfera.ru/upload/medialibrary/80c/80c19253b0515a02378bfb3ba5c2e2d9.png">
     </a>
+    <a href="s19s93#4162">
+        <img src="https://kerasfera.ru/upload/medialibrary/200/2008249249495a93105144bc730a3497.png">
+    </a>
+
 <div>
 
 
