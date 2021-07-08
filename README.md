@@ -22,8 +22,12 @@
 </div>
 <h2>✉️ Ссылки </h2>
 <div style="display: flex;" >
-    <img src="https://kerasfera.ru/upload/medialibrary/80c/80c19253b0515a02378bfb3ba5c2e2d9.png"> S19S93@yandex.ru
-    <img src="https://kerasfera.ru/upload/medialibrary/200/2008249249495a93105144bc730a3497.png"> s19s93#4162
+    <a href="mailto:S19S93@yandex.ru.com"> 
+        <img src="https://kerasfera.ru/upload/medialibrary/80c/80c19253b0515a02378bfb3ba5c2e2d9.png" alt="email">
+    </a>
+    <a href="mailto:s19s93#4162">
+        <img src="https://kerasfera.ru/upload/medialibrary/200/2008249249495a93105144bc730a3497.png">
+    </a>
 
 <div>
 
