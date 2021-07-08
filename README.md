@@ -1,8 +1,8 @@
 ### Hi people<img src="https://kerasfera.ru/upload/medialibrary/0d1/0d1d458362de9e439918bc1743adf815.gif" width="50px" style="max-width:50%;">
 <p>Меня зовут Сергей Шурховецкий , я начинающий разработчик программного обеспечения , но не новичок в IT ,
     более 8 лет являюсь it engineer на одном крупном предприятиии. 
-    Я из Европейской части  России , живу в Калининграде.</p>
-
+    Я из Европейской части  России , живу в Калининграде.
+</p>
 <h2>⚙️Технологии</h2>
 <div class="link__tex" style="display: flex;" >
     <img src="https://kerasfera.ru/upload/medialibrary/72c/72c3577c674131f5f4a18ae345ed206c.png">
@@ -12,18 +12,20 @@
     <img src="https://kerasfera.ru/upload/medialibrary/4ca/4cae28556e26a1159878e4136114adb5.png">
     <img src="https://kerasfera.ru/upload/medialibrary/3cd/3cda57ba7665bf350d440df615d6e7d5.png">
     <img src="https://kerasfera.ru/upload/medialibrary/d0d/d0dcaec4b0160d101a50fbc050e6b22a.png">
-
 </div>
-
 <h2>⚒ Инструменты</h2>
 <div style="display: flex;" >
     <img src="https://kerasfera.ru/upload/medialibrary/449/44936b339158146fb89672aab8fccadb.png">
     <img src="https://kerasfera.ru/upload/medialibrary/a2c/a2c4d6565921ab9d39b1d8a589a5b290.png">
     <img src="https://kerasfera.ru/upload/medialibrary/ab6/ab615d07af2a19cf7b7a8c5c1853e14f.png">
     <img src="https://kerasfera.ru/upload/medialibrary/260/2607e99396e08f2007ab0deecd0556b2.png">
-
 </div>
-
+<h2>✉️ Ссылки </h2>
+<div style="display: flex;" >
+    <a href="malto:S19S93@yandex.ru">
+        <img src="https://kerasfera.ru/upload/medialibrary/80c/80c19253b0515a02378bfb3ba5c2e2d9.png">
+    </a>
+<div>
 
 
 
