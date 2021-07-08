@@ -21,14 +21,9 @@
     <img src="https://kerasfera.ru/upload/medialibrary/260/2607e99396e08f2007ab0deecd0556b2.png">
 </div>
 <h2>✉️ Ссылки </h2>
-<div style="display: flex;flex-direction: column;" >
-    <a href="mailto:S19S93@yandex.ru.com"> 
-        <img src="https://kerasfera.ru/upload/medialibrary/80c/80c19253b0515a02378bfb3ba5c2e2d9.png" alt="email">S19S93@yandex.ru
-    </a>
-    <div>
-        <img src="https://kerasfera.ru/upload/medialibrary/200/2008249249495a93105144bc730a3497.png"> s19s93#4162
-    <div>
-
+<div style="display: flex; flex-direction: column;">
+<div>✉️S19S93@yandex.ru</div>
+<div>🙋🏼‍♂️https://t.me/s19s93</div>
 <div>
 
 
