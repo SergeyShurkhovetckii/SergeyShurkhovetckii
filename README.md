@@ -3,9 +3,10 @@
 
 
 <h2>⚒ Технологии и инструменты</h2>
-<img src="https://kerasfera.ru/upload/medialibrary/40a/40a2e3db58d7b5ac5863f764e78ce0da.png">
-<img src="https://kerasfera.ru/upload/medialibrary/d9f/d9f4e78e8d858f732f4be07a896be36a.png">
-<img src="https://kerasfera.ru/upload/medialibrary/a43/a431e9121c9bda6f9b6914937c6d9bb6.png">
+<div style="display: flex;" ><img src="https://kerasfera.ru/upload/medialibrary/40a/40a2e3db58d7b5ac5863f764e78ce0da.png">
+    <img src="https://kerasfera.ru/upload/medialibrary/d9f/d9f4e78e8d858f732f4be07a896be36a.png">
+    <img src="https://kerasfera.ru/upload/medialibrary/a43/a431e9121c9bda6f9b6914937c6d9bb6.png">
+</div>
 
 
 
