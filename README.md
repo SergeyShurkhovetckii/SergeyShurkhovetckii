@@ -11,7 +11,7 @@
     <img src="https://kerasfera.ru/upload/medialibrary/cec/cec0ec847ffcc0bfbc645b96fa84c194.png">
     <img src="https://kerasfera.ru/upload/medialibrary/0ec/0ec5cf3c44487beed4c67ce4ab8d1634.png">
     <img src="https://kerasfera.ru/upload/medialibrary/28b/28be4e81b697ecaec39b98dea472870e.png">
-    <img src="">
+    <img src="https://kerasfera.ru/upload/medialibrary/447/447e81e842c40db5ed1318cf70bf57b4.png">
     <img src="">
 
 </div>
@@ -19,8 +19,8 @@
 <h2>⚒ Инструменты</h2>
 <div style="display: flex;" >
     <img src="https://kerasfera.ru/upload/medialibrary/a46/a462d04a17c414971f657977b18c194a.png">
-    <img src="">
-    <img src="">
+    <img src="https://kerasfera.ru/upload/medialibrary/ea7/ea72ec46f78297631fa4a7025256b503.png">
+    <img src="https://kerasfera.ru/upload/medialibrary/135/135ac9ba1f1697a84d7f0ec10c06301f.png">
     <img src="">
     <img src="">
     <img src="">
