@@ -4,7 +4,7 @@
     Я из Европейской части  России , живу в Калининграде.</p>
 
 <h2>⚙️Технологии</h2>
-<div style="display: flex; max-width:50px" >
+<div class="link__tex" style="display: flex; max-width:45px" >
     <img src="https://kerasfera.ru/upload/medialibrary/b70/b70caea498ed02a90d684159a2ab2c34.png">
     <img src="https://kerasfera.ru/upload/medialibrary/c37/c378db6e8d45563780d17bbb1cafc861.png">
     <img src="https://kerasfera.ru/upload/medialibrary/bb4/bb4316fc91deb6d8690fb7ec427b5499.png">
