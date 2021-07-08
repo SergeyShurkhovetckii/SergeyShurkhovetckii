@@ -5,7 +5,7 @@
 
 <h2>⚙️Технологии</h2>
 <div class="link__tex" style="display: flex;" >
-    <img src="https://kerasfera.ru/upload/medialibrary/b70/b70caea498ed02a90d684159a2ab2c34.png">
+    <img src="https://kerasfera.ru/upload/medialibrary/72c/72c3577c674131f5f4a18ae345ed206c.png">
     <img src="https://kerasfera.ru/upload/medialibrary/c37/c378db6e8d45563780d17bbb1cafc861.png">
     <img src="https://kerasfera.ru/upload/medialibrary/bb4/bb4316fc91deb6d8690fb7ec427b5499.png">
     <img src="https://kerasfera.ru/upload/medialibrary/cec/cec0ec847ffcc0bfbc645b96fa84c194.png">
