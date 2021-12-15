@@ -10,13 +10,13 @@
     <img src="https://kerasfera.ru/upload/medialibrary/6ea/6ea23719fafb4c6229baa8c6b718834a.png">
     <img src="https://kerasfera.ru/upload/medialibrary/4ca/4cae28556e26a1159878e4136114adb5.png">
 <!--     <img src="https://kerasfera.ru/upload/medialibrary/3cd/3cda57ba7665bf350d440df615d6e7d5.png"> -->
-    <img src="https://kerasfera.ru/upload/medialibrary/d0d/d0dcaec4b0160d101a50fbc050e6b22a.png">
+    
 </div>
 <h2>⚒ Инструменты</h2>
 <div style="display: flex;" >
     <img src="https://kerasfera.ru/upload/medialibrary/a2c/a2c4d6565921ab9d39b1d8a589a5b290.png">
     <img src="https://kerasfera.ru/upload/medialibrary/ab6/ab615d07af2a19cf7b7a8c5c1853e14f.png">
-<!--     <img src="https://kerasfera.ru/upload/medialibrary/260/2607e99396e08f2007ab0deecd0556b2.png"> -->
+    <img src="https://kerasfera.ru/upload/medialibrary/d0d/d0dcaec4b0160d101a50fbc050e6b22a.png">
 </div>
 <h2>✉️ Ссылки </h2>
 <div style="display: flex; flex-direction: column;">
