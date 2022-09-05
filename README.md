@@ -12,11 +12,14 @@
 <!--     <img src="https://kerasfera.ru/upload/medialibrary/3cd/3cda57ba7665bf350d440df615d6e7d5.png"> -->
     
 </div>
-<h2>⚒ Инструменты</h2>
+<h2>Cheat sheets</h2>
 <div style="display: flex;" >
-    <img src="https://kerasfera.ru/upload/medialibrary/a2c/a2c4d6565921ab9d39b1d8a589a5b290.png">
-    <img src="https://kerasfera.ru/upload/medialibrary/ab6/ab615d07af2a19cf7b7a8c5c1853e14f.png">
-    <img src="https://kerasfera.ru/upload/medialibrary/d0d/d0dcaec4b0160d101a50fbc050e6b22a.png">
+    <ul dir="auto">
+<ul dir="auto">
+<li><a href="https://yoksel.github.io/flex-cheatsheet/" rel="nofollow">Flex Cheatsheet</a></li>
+<li><a href="https://yoksel.github.io/grid-cheatsheet/" rel="nofollow">Grid Cheatsheet</a></li>
+</ul>
+    </ul>
 </div>
 <h2>✉️ Ссылки </h2>
 <div style="display: flex; flex-direction: column;">
