@@ -23,6 +23,14 @@
 <div>✉️S19S93@yandex.ru</div>
 <div>🙋🏼‍♂️https://t.me/s19s93</div>
 <div>
+<h2>Для верстальщиков</h2>
+<ul dir="auto">
+<li><a href="https://github.com/yoksel/common-words">Слова, часто используемые в CSS-классах</a></li>
+<li><a href="http://yoksel.github.io/easy-markup/" rel="nofollow">Простые правила разметки</a></li>
+<li><a href="https://yoksel.github.io/easy-css/" rel="nofollow">Простой CSS</a></li>
+<li><a href="https://yoksel.github.io/bad-practices/" rel="nofollow">HTML &amp; CSS: как не надо</a></li>
+</ul>
+
 
 
 
