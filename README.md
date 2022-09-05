@@ -1,6 +1,5 @@
 ### Hi people<img src="https://kerasfera.ru/upload/medialibrary/0d1/0d1d458362de9e439918bc1743adf815.gif" width="50px" style="max-width:50%;">
-<p>Меня зовут Сергей Шурховецкий , я начинающий разработчик 
-    Я из Европейской части  России , живу в Калининграде.
+<p>Меня зовут Сергей Шурховецкий 
 </p>
 <h2>Cheat sheets</h2>
 <div style="display: flex;" >
