@@ -13,7 +13,7 @@
 <h2>✉️ Ссылки </h2>
 <div style="display: flex; flex-direction: column;">
 <div>✉️S19S93@yandex.ru</div>
-<div>🙋🏼‍♂️https://t.me/s19s93</div>
+<div>🙋🏼‍♂️https://t.me/S_Yhappy</div>
 <div>
 <h2>Для верстальщиков</h2>
 <ul dir="auto">
