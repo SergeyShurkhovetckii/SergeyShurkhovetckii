@@ -1,5 +1,7 @@
 ### Hi people<img src="https://kerasfera.ru/upload/medialibrary/0d1/0d1d458362de9e439918bc1743adf815.gif" width="50px" style="max-width:50%;">
-<p>Hello world !!! My name is Sergei Shurkhovetskii . I am frontend Developer .
+<p>Hello world!!! 😀 Let's get acquainted. My name is Sergey.
+I am a frontend developer.
+
 </p>
 <h2>Frontend Toolkit 🛠 </h2>
 
