@@ -13,7 +13,7 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/SergeyShurkhovetckii/SergeyShurkhovetckii)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergeyShurkhovetckii&layout=compact)](https://github.com/SergeyShurkhovetckii/SergeyShurkhovetckii)
 
 <h2>Cheat sheets</h2>
 
