@@ -18,7 +18,7 @@ I am a frontend developer.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergeyShurkhovetckii&layout=compact)](https://github.com/SergeyShurkhovetckii/SergeyShurkhovetckii)
 
-<h2>My contacts 📞</h2>
+<h2>My contacts</h2>
 
 <a href="https://t.me/S_Yhappy">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 
