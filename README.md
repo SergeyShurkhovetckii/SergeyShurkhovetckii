@@ -20,7 +20,7 @@ I am a frontend developer.
 
 <h2>My contacts</h2>
 
-<a href="https://t.me/S_Yhappy">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+<a href="https://t.me/Shurkhovetskii_Sergey">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 
 <h2>Cheat sheets</h2>
 
