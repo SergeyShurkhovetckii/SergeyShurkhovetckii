@@ -22,6 +22,8 @@ I am a frontend developer.
 
 <a href="https://t.me/Shurkhovetskii_Sergey">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 
+<a href="mailto:sshurkhovetskii@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+
 <h2>Cheat sheets</h2>
 
 <div style="display: flex;" >
