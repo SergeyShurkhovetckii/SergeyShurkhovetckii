@@ -1,6 +1,5 @@
 ## Front-end developer
 
-
 ### Hi people<img src="img/hello.gif" width="50px" style="max-width:50%;">
 <p>Hello world!!! 😀 Let's get acquainted. My name is Sergey.
 I am a frontend developer.
@@ -35,8 +34,6 @@ I am a frontend developer.
 <a href="https://t.me/Shurkhovetskii_Sergey">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 <a href="mailto:sshurkhovetskii@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/sergey-shurkhovetskii-13183a256/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
-
 
 
 <h2>Cheat sheets</h2>
