@@ -5,7 +5,7 @@ I am a frontend developer.
 
 <h2>Favorit project</h2>
 
-<img src="img/logo.png">
+<img src="img/logo.svg">
 
 <h2>Frontend Toolkit 🛠 </h2>
 
