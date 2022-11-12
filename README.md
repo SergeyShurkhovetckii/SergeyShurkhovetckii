@@ -1,4 +1,4 @@
-#Front-end developer
+## Front-end developer
 ### Hi people<img src="img/hello.gif" width="50px" style="max-width:50%;">
 <p>Hello world!!! 😀 Let's get acquainted. My name is Sergey.
 I am a frontend developer.
