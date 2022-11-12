@@ -5,7 +5,7 @@ I am a frontend developer.
 
 <h2>Favorit project</h2>
 
-<img src="img/logo.svg">
+<a href= "https://sergeyshurkhovetckii.github.io/Movies.github.io/"><img src="img/Tvimo.svg"></a>
 
 <h2>Frontend Toolkit 🛠 </h2>
 
