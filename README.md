@@ -44,6 +44,7 @@ I am a frontend developer.
 <ul dir="auto">
 <li><a href="https://yoksel.github.io/flex-cheatsheet/" rel="nofollow">Flex Cheatsheet</a></li>
 <li><a href="https://yoksel.github.io/grid-cheatsheet/" rel="nofollow">Grid Cheatsheet</a></li>
+<li><a href="https://devhints.io/react" rel="nofollow">React Cheatsheet</a></li>
 </ul>
     </ul>
 </div>
