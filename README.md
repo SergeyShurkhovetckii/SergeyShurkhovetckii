@@ -9,6 +9,7 @@ I am a frontend developer.
 <h2>🌀Favorit project</h2>
 
 
+<a href= "https://kerasfera.ru/"><img src="img/kerasfera.svg"></a>
 <a href= "https://sergeyshurkhovetckii.github.io/Space.github.io/"><img src="img/space..svg"></a>
 <a href= "https://sergeyshurkhovetckii.github.io/Movies.github.io/"><img src="img/Tvimo.svg"></a>
 
