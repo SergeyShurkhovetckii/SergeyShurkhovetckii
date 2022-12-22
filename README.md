@@ -5,9 +5,6 @@
 <p>Hello world!!! 😀 Let's get acquainted. My name is Sergey.
 I am a frontend developer.
 </p>
-<<<<<<< HEAD
-<h2>Skills 🛠 </h2>
-=======
 
 <h2>🌀Favorit project</h2>
 
@@ -20,7 +17,6 @@ I am a frontend developer.
 </div>
 
 <h2>🛠 Frontend Toolkit </h2>
->>>>>>> c6d29e03c373b61446b9089794b4d3c2ea067578
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
