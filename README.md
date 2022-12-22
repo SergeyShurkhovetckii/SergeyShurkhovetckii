@@ -7,7 +7,6 @@ I am a frontend developer.
 </p>
 
 <h2>🌀Favorit project</h2>
-
 <div style="display: flex;" >
 <a href= "https://kerasfera.ru/"><img src="img/kerasfera.svg"></a>
 <a href= "https://sergeyshurkhovetckii.github.io/React-shop/"><img src="img/React-shop.svg"></a>
