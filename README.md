@@ -5,24 +5,14 @@
 <p>Hello world!!! 😀 Let's get acquainted. My name is Sergey.
 I am a frontend developer.
 </p>
-<!-- 
-<h2>🌀Favorit project</h2>
-<div style="display: flex;" >
-<a href= "https://kerasfera.ru/"><img src="img/kerasfera.svg"></a>
-<a href= "https://sergeyshurkhovetckii.github.io/React-shop/"><img src="img/React-shop.svg"></a>
-<a href= "https://sergeyshurkhovetckii.github.io/Space.github.io/"><img src="img/space..svg"></a>
-<a href= "https://sergeyshurkhovetckii.github.io/Movies.github.io/"><img src="img/Tvimo.svg"></a>
-
-</div> -->
 
 <h2>🛠 Frontend Toolkit </h2>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://camo.githubusercontent.com/642a403e64839cd14bb40564ffd6854d51c71e71ae422bbf69a5508b71e46351/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d48544d4c266c6f676f436f6c6f723d653334633236)
+![CSS3](https://camo.githubusercontent.com/5629091ac8145d1d6e554d72ffb00373abb8c649203ffd49fec82fa7e665f465/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d435353266c6f676f436f6c6f723d333137386336)
+![SCSS](https://camo.githubusercontent.com/aeef49029ecb4e6f1cec6bdec4543ba29593daff357b8144210da2896beaebfd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d534353532d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d53435353266c6f676f436f6c6f723d653334633236)
+![JavaScript](https://camo.githubusercontent.com/def5631dc0c4998ca6cdfc520f7239748646fba336c3161fb9deb81ab4d76a87/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176617363726970742d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d663165303561)
+![Typescript](https://camo.githubusercontent.com/6105a5845bce268b2b1ebd897d039e9f7bc4863f75e6aa262bda4d999b2f69fd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970657363726970742d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d333137386336)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
