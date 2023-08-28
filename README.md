@@ -19,12 +19,10 @@ I am a frontend developer.
 ![Storybook](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SergeyShurkhovetckii&border_radius=5)](https://git.io/streak-stats)
-
 <h2>My contacts</h2>
 
 <a href="https://t.me/Shurkhovetskii_Sergey">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 <a href="mailto:sshurkhovetskii@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/sergey-shurkhovetskii-13183a256/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?SergeyShurkhovetckii=your-github-SergeyShurkhovetckii&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergeyShurkhovetckii=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
